@@ -40,7 +40,7 @@ To initiate our review of ICMP traffic, I first continuously ping VM2 using the 
 <br />
 
 <p>
-<img src="(https://user-images.githubusercontent.com/47663923/209569724-6d58e5d6-590a-4bbf-bfd9-678e0fc46528.png)" height="80%" width="80%" alt="SSH log in"/>
+<img src="https://user-images.githubusercontent.com/47663923/209569724-6d58e5d6-590a-4bbf-bfd9-678e0fc46528.png" height="80%" width="80%" alt="SSH log in"/>
 </p>
 
 <p>
@@ -49,7 +49,7 @@ Log into VM2 using SSH on VM1 in command line.
 <br />
 
 <p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://user-images.githubusercontent.com/47663923/209570009-3397dfab-4735-4eaf-b36a-7d6f215a80e0.png)" height="80%" width="80%" alt="DHCP"/>
+<img src="https://user-images.githubusercontent.com/47663923/209570009-3397dfab-4735-4eaf-b36a-7d6f215a80e0.png" height="80%" width="80%" alt="DHCP"/>
 </p>
 <p>
 Using DHCP to renew our IP address and observing on Wireshark.
