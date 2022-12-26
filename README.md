@@ -32,8 +32,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-![pinging VM2](https://user-images.githubusercontent.com/47663923/209569486-c3e15f60-edd8-4867-8cec-d0ca77d5508b.png)
+<img src="https://user-images.githubusercontent.com/47663923/209569486-c3e15f60-edd8-4867-8cec-d0ca77d5508b.png" height="80%" width="80%" alt="Pinging Virtaul Machine"/>
 </p>
 <p>
 To initiate our review of ICMP traffic, I first continuously ping VM2 using the private IP address using command ping 10.0.0.5 -t. This allows us to see what changes when we change networking rules.
