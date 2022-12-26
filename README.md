@@ -8,7 +8,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.flexclip.com/share/18365971e2ede90187a9dff8c5e5bcba1fbb9e4.html)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,10 +25,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create two VMs, one as windows 10 and one as Ubuntu Server
+- Open Windows 10 VM and install Wireshark
+- Using Wireshark and command line, explore network protocols
 
 <h2>Actions and Observations</h2>
 
